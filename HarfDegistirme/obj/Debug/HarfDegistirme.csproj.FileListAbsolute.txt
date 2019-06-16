@@ -1,0 +1,6 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\HarfDegistirme\bin\Debug\HarfDegistirme.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\HarfDegistirme\bin\Debug\HarfDegistirme.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\HarfDegistirme\bin\Debug\HarfDegistirme.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\HarfDegistirme\obj\Debug\HarfDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\HarfDegistirme\obj\Debug\HarfDegistirme.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\HarfDegistirme\obj\Debug\HarfDegistirme.pdb

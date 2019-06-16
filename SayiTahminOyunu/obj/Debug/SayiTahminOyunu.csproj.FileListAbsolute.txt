@@ -1,0 +1,7 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csprojAssemblyReference.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb

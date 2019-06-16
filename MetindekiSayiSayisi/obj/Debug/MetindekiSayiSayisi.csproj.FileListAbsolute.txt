@@ -1,0 +1,7 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\MetindekiSayiSayisi\bin\Debug\MetindekiSayiSayisi.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\MetindekiSayiSayisi\bin\Debug\MetindekiSayiSayisi.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\MetindekiSayiSayisi\bin\Debug\MetindekiSayiSayisi.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\MetindekiSayiSayisi\obj\Debug\MetindekiSayiSayisi.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\MetindekiSayiSayisi\obj\Debug\MetindekiSayiSayisi.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\MetindekiSayiSayisi\obj\Debug\MetindekiSayiSayisi.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\MetindekiSayiSayisi\obj\Debug\MetindekiSayiSayisi.csprojAssemblyReference.cache

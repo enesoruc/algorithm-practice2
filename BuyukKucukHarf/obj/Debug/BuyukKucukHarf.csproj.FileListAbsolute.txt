@@ -1,0 +1,6 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\BuyukKucukHarf\bin\Debug\BuyukKucukHarf.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\BuyukKucukHarf\bin\Debug\BuyukKucukHarf.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\BuyukKucukHarf\bin\Debug\BuyukKucukHarf.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\BuyukKucukHarf\obj\Debug\BuyukKucukHarf.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\BuyukKucukHarf\obj\Debug\BuyukKucukHarf.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_24022019\BuyukKucukHarf\obj\Debug\BuyukKucukHarf.pdb
